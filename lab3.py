@@ -6,8 +6,8 @@ x = 10
 y = 0.5
 print("( x = 10", ",", "y = 0.5 )", "x", "*", "y", "=", x + y)
 Price = 40
-Price = Price + 5
-print(Price)
+price = Price + 5
+print(price)
 sales = 5
 print (Price - sales)
 initial_price = 50
