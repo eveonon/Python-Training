@@ -1,3 +1,10 @@
+#1
+def percentage(percent, num2):
+  return (5 * 10) / 100
+
+number = percentage(percent = 5, num2= 10)
+print(number)
+
 # 2
 def function(fruits):
     return fruits[5]
