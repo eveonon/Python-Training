@@ -19,7 +19,7 @@ def dictionary(cloth_dict, num2):
     return [num2]
 
 
-cloth_dict = myDict = {'Gray': 'Casual', 'white': 'Church', 'Blue': 'Work'}
+cloth_dict = {'Gray': 'Casual', 'white': 'Church', 'Blue': 'Work'}
 print(dictionary(cloth_dict, num2='white'))
 
 # 4
